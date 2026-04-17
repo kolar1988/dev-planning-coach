@@ -1,0 +1,7 @@
+interface:
+  display_name: "Dev Planning Coach"
+  short_description: "先澄清需求，再输出可执行开发计划"
+  default_prompt: "Use $dev-planning-coach to clarify my software requirement one question at a time and produce an implementation plan before any coding."
+
+policy:
+  allow_implicit_invocation: true
